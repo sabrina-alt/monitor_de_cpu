@@ -44,4 +44,4 @@ node server.js
 ## config Frontend
 cd frontend
 npm install
-npm run dev
+npm run serve
